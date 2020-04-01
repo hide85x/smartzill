@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/hide85x/smartzill.git"
+    "url": "git+https://github.com/hide85x/smartzill.git"
   }
 }
